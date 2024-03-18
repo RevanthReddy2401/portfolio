@@ -1,0 +1,165 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background: black;
+    height:70px;
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    position: fixed;
+    opacity:0.9;
+}
+.headername{
+    color:brown;
+    margin-left:15px;
+    margin-top: 15px;
+}
+nav{
+
+    margin-top: 25px;
+}
+a{
+    text-decoration: none;
+    color:brown;
+    padding-right: 15px;
+}
+.contact{
+    background: white;
+    padding-left:10px;
+    margin-right: 40px;
+}
+#home{
+   padding-top:350px;
+   height:500px;
+   width:100%;
+   text-align: center;
+   font-size: 40px;
+   font-weight: 700;
+}
+#bio{
+    display:flex;
+    background:burlywood;
+    color:aliceblue;
+    height:450px;
+    margin-bottom: 400px;
+    padding-top: 50px;
+}
+img{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+    margin:25px;
+    margin-top: 90px;
+}
+.data{
+    margin-top:90px;
+}
+.porthead{
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 15px;
+}
+.projectex{
+    text-align: center;
+    margin-bottom: 10px;
+}
+hr{
+    height: 2px;
+    width:500px;
+    background: black;
+    margin:auto;
+    margin-bottom: 20px;
+}
+.projecthead{
+    display:flex;
+    justify-content: center;
+}
+
+.project{
+    width: 300px;
+    height:300px;
+    background: burlywood;
+    color:azure;
+    margin-left:25px;
+    border-radius: 10px;
+}
+.project h2{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.project p{
+    padding-left:15px;
+    padding-right: 15px;
+}
+#portfolio{
+    margin-bottom: 200px;
+    padding-top: 100px;
+}
+#skills h2{
+    text-align:center;
+}
+li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+h3{
+    margin-top: 40px;
+    margin-bottom:20px;
+}
+section{
+    display:flex;
+    justify-content:space-evenly;
+}
+progress{
+  width:200px;
+  height:10px;
+  background-color:brown;
+}
+#skills{
+    margin-top: 400px;
+    padding-top: 100px;
+    margin-bottom: 300px;
+}
+#contact h2{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 49px;
+}
+#contact{
+     margin-top: 200px;
+     color:aliceblue;
+}
+footer{
+    background: burlywood;
+    height:300px;
+    color:black;
+}
+.namefoot{
+    display:flex;
+}
+#nicon{
+    margin-top: 10px;
+    margin-left: 640px;
+    width:25px;
+    height:25px;
+}
+.name{
+    margin-top: 15px;
+    margin-left:-20px;
+}
+.phone{
+    display:flex;
+}
+.npicon{
+    width:25px;
+    height:25px;
+    margin-top: 0px;
+    margin-left: 640px;
+}
+.number{
+   margin-top: 4px;
+    margin-left: -17px;
+}
